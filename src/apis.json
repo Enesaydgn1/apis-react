@@ -1,0 +1,91 @@
+[
+    {
+        "id": 1,
+        "name": "Hunter",
+        "category":"Data access",
+        "description":"Hunter API makes it easy to find or verify professional email addresses",
+        "icon": "img/icon/hunter.png",
+        "bookmark": false,
+        "docs_url" : "https://enesaydogan.com/"
+    },
+    {
+        "id": 2,
+        "name": "Twilio",
+        "category":"Data access",
+        "description":"Hunter API makes it easy to find or verify professional email addresses",
+        "icon": "img/icon/twilio.ico",
+        "bookmark": false,
+        "docs_url" : "https://enesaydogan.com/"
+
+    },
+    {
+        "id": 3,
+        "name": "WhatsaApp Business",
+        "category":"Data access",
+        "description":"Hunter API makes it easy to find or verify professional email addresses",
+        "icon": "img/icon/wp.png",
+        "bookmark": false,
+        "docs_url" : "https://enesaydogan.com/"
+
+    },
+    {
+        "id": 4,
+        "name": "Stripe",
+        "category":"Data access",
+        "description":"Hunter API makes it easy to find or verify professional email addresses",
+        "icon": "img/icon/stripe.png",
+        "bookmark": false,
+        "docs_url" : "https://enesaydogan.com/"
+
+    },
+    {
+        "id": 5,
+        "name": "Typeform ",
+        "category":"Data access",
+        "description":"Hunter API makes it easy to find or verify professional email addresses",
+        "icon": "img/icon/typeform.png",
+        "bookmark": true,
+        "docs_url" : "https://enesaydogan.com/"
+
+    },
+    {
+        "id": 6,
+        "name": "BlaBlaCar",
+        "category":"Data access",
+        "description":"Hunter API makes it easy to find or verify professional email addresses",
+        "icon": "img/icon/blacar.png",
+        "bookmark": false,
+        "docs_url" : "https://enesaydogan.com/"
+
+    },
+    {
+        "id": 7,
+        "name": "Meteorologisk Instiut",
+        "category":"Data access",
+        "description":"Hunter API makes it easy to find or verify professional email addresses",
+        "icon": "img/icon/yr.png",
+        "bookmark": true,
+        "docs_url" : "https://enesaydogan.com/"
+
+    },
+    {
+        "id": 8,
+        "name": "Asana",
+        "category":"Data access",
+        "description":"Hunter API makes it easy to find or verify professional email addresses",
+        "icon": "img/icon/asana.jpeg",
+        "bookmark": false,
+        "docs_url" : "https://enesaydogan.com/"
+
+    },
+    {
+        "id": 9,
+        "name": "Mallchimp",
+        "category":"Data access",
+        "description":"Hunter API makes it easy to find or verify professional email addresses",
+        "icon": "img/icon/mailchimp.png",
+        "bookmark": false,
+        "docs_url" : "https://enesaydogan.com/"
+
+    }
+]
