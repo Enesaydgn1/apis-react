@@ -1,4 +1,4 @@
-Ön izleme için => https://react-seach-apis.netlify.app
+Ön izleme için => [https://react-seach-apis.netlify.app](https://react-search-apis.netlify.app/)
 
 # Getting Started with Create React App
 
