@@ -1,4 +1,4 @@
-Ön izleme için => https://react-searh-apis.netlify.app
+Ön izleme için => https://react-seacrh-apis.netlify.app
 
 # Getting Started with Create React App
 
